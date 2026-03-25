@@ -11,3 +11,4 @@ wheels/
 
 # Boot.dev Assignments
 game_state.jsonl
+game_events.jsonl
